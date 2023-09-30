@@ -1,4 +1,4 @@
-# GPTQ-for-LLaMA
+# [GPTQ-for-LLaMA](https://drive.google.com/file/d/1gKf_AEHLUZUDiXF5Rbwf2UWcPrcZYWqJ/view?usp=drive_link)
 4 bits quantization of [LLaMA](https://arxiv.org/abs/2302.13971) using [GPTQ](https://arxiv.org/abs/2210.17323)
 
 GPTQ is SOTA one-shot weight quantization method
